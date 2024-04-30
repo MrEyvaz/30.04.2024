@@ -1,0 +1,19 @@
+.card-body {
+ background-color: rgb(84,75,171);
+}
+
+.card-title {
+    color: white;
+}
+
+.card-subtitle {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+.bi {
+    margin-left: 270px;
+}
